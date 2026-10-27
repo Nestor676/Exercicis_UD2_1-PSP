@@ -1,4 +1,4 @@
-package com.ejercicios2;
+package com.ejercicios2.Run;
 
 public class hilo1 extends Thread{
 

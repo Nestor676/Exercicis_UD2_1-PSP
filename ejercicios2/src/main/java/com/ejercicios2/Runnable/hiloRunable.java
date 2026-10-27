@@ -1,4 +1,4 @@
-package com.ejercicios2;
+package com.ejercicios2.Runnable;
 
 public class hiloRunable implements Runnable{
     public hiloRunable(){
